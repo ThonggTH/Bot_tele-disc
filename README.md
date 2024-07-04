@@ -43,7 +43,7 @@ $ yarn run test:cov
 ```
 
 # Stay in touch
-- Author - [Nguyễn Như Khánh](https://www.facebook.com/nhukhanh.dev)
+- Author - [Trần Hữu Thống](https://www.facebook.com/huuthong293dng)
 - Author - [Phan Trung Nguyên](https://www.facebook.com/nuraitooo)
 # License
 
